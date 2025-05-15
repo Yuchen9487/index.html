@@ -24,7 +24,7 @@
     <section class="mb-8">
       <h2 class="text-2xl font-semibold border-b pb-2 mb-4">👋 簡介</h2>
       <p class="text-lg leading-relaxed">
-        我對電子電路、Arduino 自動控制、Python 腳本與機器人開發有濃厚興趣，喜歡透過動手實作解決問題。曾參加海峽兩岸創客大賽，並赴同濟大學進行專題研習。我期望能在電機與資訊領域持續精進，開發更多實用且創新的專案。
+        我對電子電路、Arduino 自動控制、Python 腳本與機器人開發有濃厚興趣，喜歡透過動手實作解決問題。
       </p>
     </section>
 
